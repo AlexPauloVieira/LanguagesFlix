@@ -1,0 +1,197 @@
+{
+  "categorias": [
+    {
+      "titulo": "Learn English",
+      "link": "https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ",
+      "cor": "#FFCC00",
+      "link_extra": {
+        "text": "Melhores canais para aprender inglês",
+        "url": "https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ"
+      },
+      "videos": [
+        {
+          "titulo": "Speak English with Vanessa",
+          "url": "https://www.youtube.com/watch?v=Jv0wvW-XCXg"
+        },
+        {
+          "titulo": "Rachel's English",
+          "url": "https://www.youtube.com/watch?v=0esI-m4LNFU"
+        },
+        {
+          "titulo": "English with Lucy",
+          "url": "https://www.youtube.com/watch?v=pOHTr-MxtGM&t=146s"
+        },
+        {
+          "titulo": "mmmEnglish",
+          "url": "https://www.youtube.com/watch?v=xaATRvmu3Ms"
+        },
+        {
+          "titulo": "Learn English with Papa Teach Me",
+          "url": "https://www.youtube.com/watch?v=CNSkcq4zqPU"
+        },
+        {
+          "titulo": "BBC Learning English",
+          "url": "https://www.youtube.com/watch?v=_q8geBY3vPA"
+        },
+        {
+          "titulo": "Learn English Lab",
+          "url": "https://www.youtube.com/watch?v=f1MZBLAaFCU"
+        },
+        {
+          "titulo": "Learn English with Emma [engVid]",
+          "url": "https://www.youtube.com/watch?v=EjYp7oDMM6s"
+        },
+        {
+          "titulo": "Learn English with EnglishClass101.com",
+          "url": "https://www.youtube.com/watch?v=lNKT2YuXzBo"
+        }
+      ]
+    },
+    {
+      "titulo": "Learn German",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Melhores canais para aprender alemão",
+        "url": "https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/videos?view=0&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Easy German",
+          "url": "https://www.youtube.com/watch?v=Dmk2-jeu5u4"
+        },
+        {
+          "titulo": "Learn German with Anja",
+          "url": "https://www.youtube.com/watch?v=DL80Fl7Vu44"
+        },
+        {
+          "titulo": "lingoni GERMAN",
+          "url": "https://www.youtube.com/watch?v=lOAuPjsVtyI&t=43s"
+        },
+        {
+          "titulo": "Dein Sprachcoach",
+          "url": "https://www.youtube.com/watch?v=1q2442-etwg"
+        },
+        {
+          "titulo": "Deutsch lernen mit der DW",
+          "url": "https://www.youtube.com/watch?v=dC6ZGLzdaTs"
+        },
+        {
+          "titulo": "Lingster Academy",
+          "url": "https://www.youtube.com/watch?v=rQCS_UdHHYU"
+        }
+      ]
+    },
+    {
+      "titulo": "Learn French",
+      "cor": "#0095ce",
+      "link_extra": {
+        "text": "Melhores canais para aprender francês",
+        "url": "https://www.youtube.com/channel/UCVgW9ZQaGBk6fsiPgE2mYDg/videos?view=0&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Français avec Pierre",
+          "url": "https://www.youtube.com/watch?v=fEMUnNVkh9s"
+        },
+        {
+          "titulo": "innerFrench",
+          "url": "https://www.youtube.com/watch?v=rCir0kJTrHU&t=213s"
+        },
+        {
+          "titulo": "Easy French",
+          "url": "https://www.youtube.com/watch?v=HtE9702IRis"
+        },
+        {
+          "titulo": "lingoni FRENCH",
+          "url": "https://www.youtube.com/watch?v=SjlJ3Cton_g&t=134s"
+        },
+        {
+          "titulo": "Français Authentique",
+          "url": "https://www.youtube.com/watch?v=xYAu0vQsuEs"
+        },
+        {
+          "titulo": "Parlez-vous FRENCH?",
+          "url": "https://www.youtube.com/watch?v=SB0GPyppkyw"
+        }
+      ]
+    },
+    {
+      "titulo": "Learn Spanish",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Melhores canais para aprender espanhol",
+        "url": "https://www.youtube.com/channel/UCAL4AMMMXKxHDu3FqZV6CbQ"
+      },
+      "videos": [
+        {
+          "titulo": "Learn Spanish with SpanishPod101",
+          "url": "https://www.youtube.com/watch?v=SOst-FOziZY"
+        },
+        {
+          "titulo": "Easy Spanish",
+          "url": "https://www.youtube.com/watch?v=HC951LL5Y0w"
+        },
+        {
+          "titulo": "Tu escuela de español",
+          "url": "https://www.youtube.com/watch?v=iW9D8yx6nbw"
+        },
+        {
+          "titulo": "superholly",
+          "url": "https://www.youtube.com/watch?v=OXQyPyxnJtg"
+        }
+      ]
+    },
+    {
+      "titulo": "Learn Italian",
+      "cor": "red",
+      "link_extra": {
+        "text": "Melhores canais para aprender italiano",
+        "url": "https://www.youtube.com/channel/UChpDG_WQkf_2tgLUr9xTR0g/videos?view=0&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Learn Italian with Italy Made Easy",
+          "url": "https://www.youtube.com/watch?v=zwobnu2_Q4I"
+        },
+        {
+          "titulo": "Learn Italian with Lucrezia",
+          "url": "https://www.youtube.com/watch?v=XRUzgndGJRE"
+        },
+        {
+          "titulo": "Easy Italian",
+          "url": "https://www.youtube.com/watch?v=osxxBC0W0zo"
+        }
+      ]
+    },
+    {
+      "titulo": "Learn Other Languages",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Outros idiomas",
+        "url": "https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ/videos?view=0&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Easy Russian",
+          "url": "https://www.youtube.com/watch?v=tKSTVoGLDVc"
+        },
+        {
+          "titulo": "Easy Danish",
+          "url": "https://www.youtube.com/watch?v=AGdMRYP1QiA"
+        },
+        {
+          "titulo": "Easy Japanese",
+          "url": "https://www.youtube.com/watch?v=qzzweIQoIOU"
+        },
+        {
+          "titulo": "Easy Brazilian Portuguese",
+          "url": "https://www.youtube.com/watch?v=eWOCw4VJWRY"
+        },
+        {
+          "titulo": "Easy Greek",
+          "url": "https://www.youtube.com/watch?v=OS2h9MfSri8"
+        }
+      ]
+    }
+  ]
+}
