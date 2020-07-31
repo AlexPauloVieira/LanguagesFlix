@@ -10,6 +10,10 @@
       },
       "videos": [
         {
+          "titulo": "The benefits of a bilingual brain",
+          "url": "https://www.youtube.com/watch?v=MMmOLN5zBLY&t=201s"
+        },
+        {
           "titulo": "Speak English with Vanessa",
           "url": "https://www.youtube.com/watch?v=Jv0wvW-XCXg"
         },
@@ -44,6 +48,10 @@
         {
           "titulo": "Learn English with EnglishClass101.com",
           "url": "https://www.youtube.com/watch?v=lNKT2YuXzBo"
+        },
+        {
+          "titulo": "JamesESL English Lessons (engVid)",
+          "url": "https://www.youtube.com/watch?v=N0qEHuyTTp8"
         }
       ]
     },
