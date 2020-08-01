@@ -37,7 +37,7 @@ a {
 
 
 .page_404 { 
-  margin-top: -70px;
+  margin-top: -80px;
   padding:5px 0; 
   background:#fff; 
   font-family: 'Arvo', serif;
@@ -52,6 +52,7 @@ a {
     background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
     height: 400px;
     background-position: center;
+    background-repeat: no-repeat;
  }
  
  .four_zero_four_bg h1 {
@@ -63,13 +64,22 @@ a {
 }
 			 
 .link_404 {			 
-	color: #fff;
-  padding: 10px 20px;
+  color: #000;
+  font-size: 24px;
+  padding: 10px 30px;
   background: #ff8000;
+  border: none;
+  border-radius: 25px;
   margin: 20px 0;
   text-decoration: none;
   display: inline-block;
 }
+
+.link_404:hover {
+  color: #ff8000;
+  background-color: black;
+}
+
 .contant_box_404 {  
   margin-top: -50px;
 }
